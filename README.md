@@ -14,6 +14,7 @@ Because exploration shouldn't stop where the network ends.
 🧠 Beginner-Friendly — Easy-to-follow code, ideal for hobbyists and students
 🧾 Custom Branding — “Designed by Md Mizanur Rahman” shown on-screen
 
+
 📦 Components Used
 Arduino Nano or UNO
 NEO-6M GPS Module
